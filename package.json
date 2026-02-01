@@ -46,7 +46,7 @@
     "jspdf": "^3.0.2",
     "lucide-react": "^0.544.0",
     "multer": "^2.0.2",
-    "next": "15.5.3",
+    "next": "16.1.5",
     "nodemailer": "^7.0.6",
     "postgres": "^3.4.7",
     "react": "19.1.0",
